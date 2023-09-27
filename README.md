@@ -9,7 +9,7 @@ In this course, we cover the essentials of Classical Machine Learning or the Pre
 * **Week 2: [Linear Models and hyperparameters](https://github.com/wncc/learners-space/tree/master/Machine%20Learning/Week%202)**
  * **Week 3: [ Unsupervised Learning](https://github.com/wncc/learners-space/tree/master/Machine%20Learning/Week%202)**
  * **Week 4: [Introduction to Neural Networks](https://github.com/wncc/learners-space/tree/master/Machine%20Learning/Week%204)**
- * **Week 5: [Convolution Neural Networks, Pinch of ANNs] **
+  * Week 5: Convolution Neural Networks, Pinch of ANNs 
  * **Week 6: [Applying Neural Networks](https://github.com/wncc/learners-space/tree/master/Machine%20Learning/Week%205)**
  * **Week 7: [Deep Learning Models in Practice](https://github.com/wncc/learners-space/tree/master/Machine%20Learning/Week%206)**
  * **Week 8: [Exploring Beyond...](./End%20Term%20Assignment/README.md)**
