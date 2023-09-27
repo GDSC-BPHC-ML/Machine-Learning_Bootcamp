@@ -15,3 +15,4 @@ In this course, we cover the essentials of Classical Machine Learning or the Pre
  * **Week 8: [Exploring Beyond...](./End%20Term%20Assignment/README.md)**
  
 
+<p align="center">Created by <a href="https://gdsc-bitshyd.vercel.app/">GDSC</a> :ocean: </p>
