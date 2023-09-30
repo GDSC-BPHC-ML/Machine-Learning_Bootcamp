@@ -48,5 +48,9 @@ In essence, we've taken on the Herculean task of conducting thorough internet se
 With this foundational knowledge in place, we are primed to delve deeply into the world of Machine Learning and explore every facet of it in detail, commencing in week 2.
 
 
+## Week 2
+
+We begin our walk with basics of Machine Learning i.e. Regression and Classification in this week.
+
 
 <p align="center">Created by <a href="https://gdsc-bitshyd.vercel.app/">GDSC</a> :ocean: </p>
