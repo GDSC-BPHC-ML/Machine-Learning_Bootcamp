@@ -80,8 +80,52 @@ In Week 3, we move beyond Linear Models and delve into the realm of non-linear m
 
 - Transitioning to the realm of Unsupervised Learning, we introduce the **k Nearest Neighbours (kNN)** model, a valuable approach for clustering data and often employed as a Classifier. kNN represents a Non-Parametric Learning model that helps make sense of data by grouping it into clusters.
 
+## Week 4
+
+In this week's module, we explore the realm of **Neural Networks**, a groundbreaking development that has transformed the field of Artificial Intelligence. Neural Networks are extensively employed across various domains of Artificial Learning, and their advent has reshaped the landscape of machine learning. In many ways, they serve as a unifying model capable of handling a wide range of tasks that traditional machine learning models address.
+
+- We delve into the fundamental concepts of **Neural Networks**, along with the associated mathematics, to provide a comprehensive understanding of how they operate.
+
+- We also cover essential concepts like **Loss Functions** and **Optimization Techniques** that play pivotal roles in the training and performance of Neural Networks.
+
+- Starting this week, we shift our focus to the **practical aspects** of machine learning models. These practical considerations are crucial determinants of a model's efficiency and effectiveness, and they represent critical factors to address before tackling real-world problem-solving tasks.
+
+- We introduce relevant **statistical** concepts that closely intertwine with Machine Learning, forming the bedrock of understanding for various machine learning models.
+
+- To reinforce your understanding of this pivotal model, we provide a set of practice exercises aimed at clarifying key concepts.
 
 
+## Week 5
+
+This week, we start with implementation details of Neural Networks in Standard Libraries like Tensorflow and Keras. We also try to further our knowledge of Neural Nets with more advanced concepts.
+
+* We start with tutorials on **tensorflow** and **Keras** where we learn about the implementation of Neural Nets and applying them to tasks.
+* We then head on to Convolutional Neural Nets. Probaby one of the greatest developments in the field of Deep Learning that has indeed changed the field of Computer Vision completely. 
+* We talk a lot of detail about CNN's and introduce you to **Conv Layers** and **Pooling Layers**.
+* A few exercises have been given to acquaint readers with Neural Nets and Convolutional Neural Nets.
+
+## Week 6
+
+In this week, we dive into the practical intricacies of Neural Networks and their pivotal role in shaping our model's performance.
+
+- We commence by delving into the **Initialization of Parameters** and provide a comprehensive discussion on how it significantly impacts the learning process of a model.
+
+- We aim to consolidate various techniques into a standardized expression of **Standard Deviation**, as elucidated in a Research Paper included in the content section.
+
+- Our final topic of discussion in this week is **Dropouts**. Google introduced this ingenious concept of Dropouts, which, in a way, enables an ensemble approach using a single neural network, resulting in substantial performance improvements.
+
+## Week 7
+
+In this final week, we give a well thought assignemnt to the readers so that they can get try their hands on a problem using all the concepts that they have learnt throughout the course. This assignment is also used to judge and evaluate the performance of the student based on how well the code is written and the accuracy of the model. 
+
+This assignment is based on Neural Networks that was first designed some 70 years back by Frank RosenBalt. Neural networks form the backbone of the entire Artifical Intelligence Industry today. Deep Learning has really taken off recently and through this assignment we try to give you a flavour of the Deep Learning domain through a very basic exercise.
+
+
+## Some Highly Valuable Resources
+
+- **[Towards Data Science](https://towardsdatascience.com/):** This website is frequently utilized by Data Scientists and offers a vast repository of articles contributed by individuals ranging from students to seasoned Data Scientists.
+
+- **[Stanford CS 229](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU):** Taught by renowned AI expert Andrew Ng at Stanford, this course provides advanced content in Machine Learning. It delves deep into the mathematical foundations of Machine Learning and is a comprehensive resource for those seeking in-depth knowledge.
 
 
 <p align="center">Created by <a href="https://gdsc-bitshyd.vercel.app/">GDSC</a> :ocean: </p>
