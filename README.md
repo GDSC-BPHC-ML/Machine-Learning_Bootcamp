@@ -31,5 +31,6 @@ In essence, we've taken on the Herculean task of conducting thorough internet se
 
 ## Week 1
  
+ Our journey into the realm of Machine Learning commences with the establishment of a solid groundwork in different interconnected areas, such as Mathematics and coding abilities.
 
 <p align="center">Created by <a href="https://gdsc-bitshyd.vercel.app/">GDSC</a> :ocean: </p>
