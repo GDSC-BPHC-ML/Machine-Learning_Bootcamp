@@ -104,5 +104,14 @@ This week, we start with implementation details of Neural Networks in Standard L
 * We talk a lot of detail about CNN's and introduce you to **Conv Layers** and **Pooling Layers**.
 * A few exercises have been given to acquaint readers with Neural Nets and Convolutional Neural Nets.
 
+## Week 6
+
+In this week, we dive into the practical intricacies of Neural Networks and their pivotal role in shaping our model's performance.
+
+- We commence by delving into the **Initialization of Parameters** and provide a comprehensive discussion on how it significantly impacts the learning process of a model.
+
+- We aim to consolidate various techniques into a standardized expression of **Standard Deviation**, as elucidated in a Research Paper included in the content section.
+
+- Our final topic of discussion in this week is **Dropouts**. Google introduced this ingenious concept of Dropouts, which, in a way, enables an ensemble approach using a single neural network, resulting in substantial performance improvements.
 
 <p align="center">Created by <a href="https://gdsc-bitshyd.vercel.app/">GDSC</a> :ocean: </p>
