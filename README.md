@@ -52,5 +52,22 @@ With this foundational knowledge in place, we are primed to delve deeply into th
 
 We begin our walk with basics of Machine Learning i.e. Regression and Classification in this week.
 
+- **Linear Regression** stands as one of the most fundamental concepts in Machine Learning, serving as a cornerstone upon which Machine Learning is built.
+
+- Moving beyond simple Linear Regression, we explore a more efficient model commonly known as **Segmented Regression** and assess its performance relative to Simple Linear Regression.
+
+- We delve into the intricacies of **Locally Weighted Regression**, a powerful Linear Regression model that thrives on high-quality observations, and we provide an in-depth exploration of this approach.
+
+- Transitioning from the linear realm, we venture into **Logistic Regression**, a pivotal tool for data classification tasks.
+
+- We introduce the relatively advanced **Naive Bayes Classifier**, extensively utilized in the era of Machine Learning.
+
+- Building upon the Data Analysis skills acquired in Week 1, we delve into the realms of **Exploratory Data Analysis** and **Data Pre-Processing**.
+
+- Our journey culminates in the exploration of **Generalized Linear Models (GLM)**, a comprehensive approach that unifies various linear models. Although this topic involves mathematical concepts, we strive to present it in an intuitive manner, minimizing the focus on mathematical intricacies.
+
+
+
+
 
 <p align="center">Created by <a href="https://gdsc-bitshyd.vercel.app/">GDSC</a> :ocean: </p>
