@@ -120,4 +120,12 @@ In this final week, we give a well thought assignemnt to the readers so that the
 
 This assignment is based on Neural Networks that was first designed some 70 years back by Frank RosenBalt. Neural networks form the backbone of the entire Artifical Intelligence Industry today. Deep Learning has really taken off recently and through this assignment we try to give you a flavour of the Deep Learning domain through a very basic exercise.
 
+
+## Some Highly Valuable Resources
+
+- **[Towards Data Science](https://towardsdatascience.com/):** This website is frequently utilized by Data Scientists and offers a vast repository of articles contributed by individuals ranging from students to seasoned Data Scientists.
+
+- **[Stanford CS 229](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU):** Taught by renowned AI expert Andrew Ng at Stanford, this course provides advanced content in Machine Learning. It delves deep into the mathematical foundations of Machine Learning and is a comprehensive resource for those seeking in-depth knowledge.
+
+
 <p align="center">Created by <a href="https://gdsc-bitshyd.vercel.app/">GDSC</a> :ocean: </p>
