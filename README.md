@@ -66,6 +66,20 @@ We begin our walk with basics of Machine Learning i.e. Regression and Classifica
 
 - Our journey culminates in the exploration of **Generalized Linear Models (GLM)**, a comprehensive approach that unifies various linear models. Although this topic involves mathematical concepts, we strive to present it in an intuitive manner, minimizing the focus on mathematical intricacies.
 
+## Week 3
+
+In Week 3, we move beyond Linear Models and delve into the realm of non-linear models while also exploring some Unsupervised Learning techniques.
+
+- We kick things off with a look at the non-parametric learning model known as the **Decision Tree**. While it might appear deceptively simple at first, this model proves to be remarkably powerful, serving purposes in both Regression and Classification tasks. Understanding the intricacies of Decision Trees is crucial, given their extensive historical and ongoing usage.
+
+- Additionally, we discuss the algorithm employed for constructing Decision Trees, providing insights into the inner workings of this model.
+
+- Our exploration extends to the concept of **Ensemble Learning**, where we delve into an ensemble of Decision Trees known as the **Random Forest**. We dissect the various ways to effectively combine Decision Trees and evaluate the advantages and disadvantages of this approach in comparison to standalone Decision Trees.
+
+- We address the challenge posed by high-dimensional images and explore the feasibility of using the original image data in conventional models. To tackle this, we introduce the technique of **Principal Component Analysis (PCA)**, a powerful tool widely utilized in applications such as Face Recognition. PCA essentially functions as a Dimensionality Reduction Technique.
+
+- Transitioning to the realm of Unsupervised Learning, we introduce the **k Nearest Neighbours (kNN)** model, a valuable approach for clustering data and often employed as a Classifier. kNN represents a Non-Parametric Learning model that helps make sense of data by grouping it into clusters.
+
 
 
 
