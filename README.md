@@ -80,6 +80,19 @@ In Week 3, we move beyond Linear Models and delve into the realm of non-linear m
 
 - Transitioning to the realm of Unsupervised Learning, we introduce the **k Nearest Neighbours (kNN)** model, a valuable approach for clustering data and often employed as a Classifier. kNN represents a Non-Parametric Learning model that helps make sense of data by grouping it into clusters.
 
+## Week 4
+
+In this week's module, we explore the realm of **Neural Networks**, a groundbreaking development that has transformed the field of Artificial Intelligence. Neural Networks are extensively employed across various domains of Artificial Learning, and their advent has reshaped the landscape of machine learning. In many ways, they serve as a unifying model capable of handling a wide range of tasks that traditional machine learning models address.
+
+- We delve into the fundamental concepts of **Neural Networks**, along with the associated mathematics, to provide a comprehensive understanding of how they operate.
+
+- We also cover essential concepts like **Loss Functions** and **Optimization Techniques** that play pivotal roles in the training and performance of Neural Networks.
+
+- Starting this week, we shift our focus to the **practical aspects** of machine learning models. These practical considerations are crucial determinants of a model's efficiency and effectiveness, and they represent critical factors to address before tackling real-world problem-solving tasks.
+
+- We introduce relevant **statistical** concepts that closely intertwine with Machine Learning, forming the bedrock of understanding for various machine learning models.
+
+- To reinforce your understanding of this pivotal model, we provide a set of practice exercises aimed at clarifying key concepts.
 
 
 
