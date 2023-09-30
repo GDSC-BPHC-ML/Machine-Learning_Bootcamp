@@ -95,6 +95,14 @@ In this week's module, we explore the realm of **Neural Networks**, a groundbrea
 - To reinforce your understanding of this pivotal model, we provide a set of practice exercises aimed at clarifying key concepts.
 
 
+## Week 5
+
+This week, we start with implementation details of Neural Networks in Standard Libraries like Tensorflow and Keras. We also try to further our knowledge of Neural Nets with more advanced concepts.
+
+* We start with tutorials on **tensorflow** and **Keras** where we learn about the implementation of Neural Nets and applying them to tasks.
+* We then head on to Convolutional Neural Nets. Probaby one of the greatest developments in the field of Deep Learning that has indeed changed the field of Computer Vision completely. 
+* We talk a lot of detail about CNN's and introduce you to **Conv Layers** and **Pooling Layers**.
+* A few exercises have been given to acquaint readers with Neural Nets and Convolutional Neural Nets.
 
 
 <p align="center">Created by <a href="https://gdsc-bitshyd.vercel.app/">GDSC</a> :ocean: </p>
