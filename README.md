@@ -114,4 +114,10 @@ In this week, we dive into the practical intricacies of Neural Networks and thei
 
 - Our final topic of discussion in this week is **Dropouts**. Google introduced this ingenious concept of Dropouts, which, in a way, enables an ensemble approach using a single neural network, resulting in substantial performance improvements.
 
+## Week 7
+
+In this final week, we give a well thought assignemnt to the readers so that they can get try their hands on a problem using all the concepts that they have learnt throughout the course. This assignment is also used to judge and evaluate the performance of the student based on how well the code is written and the accuracy of the model. 
+
+This assignment is based on Neural Networks that was first designed some 70 years back by Frank RosenBalt. Neural networks form the backbone of the entire Artifical Intelligence Industry today. Deep Learning has really taken off recently and through this assignment we try to give you a flavour of the Deep Learning domain through a very basic exercise.
+
 <p align="center">Created by <a href="https://gdsc-bitshyd.vercel.app/">GDSC</a> :ocean: </p>
