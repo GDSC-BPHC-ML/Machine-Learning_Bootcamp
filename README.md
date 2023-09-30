@@ -45,7 +45,7 @@ In essence, we've taken on the Herculean task of conducting thorough internet se
 
 - We then aim to familiarize readers with the foundational concepts of Machine Learning, namely **Calculus and Linear Algebra**.
 
-- With this foundational knowledge in place, we are primed to delve deeply into the world of Machine Learning and explore every facet of it in detail, commencing in week 2.
+With this foundational knowledge in place, we are primed to delve deeply into the world of Machine Learning and explore every facet of it in detail, commencing in week 2.
 
 
 
