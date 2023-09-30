@@ -26,6 +26,10 @@ The internet is brimming with tens of thousands of resources for learning Machin
 We've encountered these challenges ourselves while learning Machine Learning, which is why we've developed this course with a unique and user-friendly approach. Instead of overwhelming you with exhaustive analyses and intricate details, we've carefully curated the best available resources for each topic. These references are chosen to offer you comprehensive insights and to address any doubts you may have, ensuring a crystal-clear understanding.
 
 In essence, we've taken on the Herculean task of conducting thorough internet searches for you, so you don't have to. Our aim is to empower you on your journey to explore Data Science by providing concise explanations and guiding you to the most valuable resources. Happy Learning!
+
+# Structure of the Course
+
+## Week 1
  
 
 <p align="center">Created by <a href="https://gdsc-bitshyd.vercel.app/">GDSC</a> :ocean: </p>
