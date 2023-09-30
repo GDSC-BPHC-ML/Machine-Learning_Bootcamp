@@ -33,4 +33,20 @@ In essence, we've taken on the Herculean task of conducting thorough internet se
  
  Our journey into the realm of Machine Learning commences with the establishment of a solid groundwork in different interconnected areas, such as Mathematics and coding abilities.
 
+- We commence with **Python**, which is undeniably one of the most widely used programming languages worldwide, particularly in the context of Machine Learning and broader programming applications.
+
+- Our next step involves delving into one of the fundamental skills in Machine Learning – **Data Plotting and Visualization**. This skill serves as an initial and crucial stage in addressing Machine Learning challenges. Understanding the data you're working with is imperative for developing effective Machine Learning models tailored to the task at hand.
+
+- We also explore the concept of **Data Distribution**, which holds central importance in comprehending the types of models suitable for solving specific problems.
+
+- Assuming we have a grasp of the data we're dealing with and understand its distribution, we encounter the need to **prepare** and **pre-process** the data to align it with the requirements of our chosen model. To address this, we introduce a highly useful library known as Pandas.
+
+- Once the data is prepared, the next question is how to efficiently process it. This is where **Numpy – Numerical Python** comes into play. Numpy is extensively employed for numerical computation and is renowned for accelerating various computational tasks.
+
+- We then aim to familiarize readers with the foundational concepts of Machine Learning, namely **Calculus and Linear Algebra**.
+
+- With this foundational knowledge in place, we are primed to delve deeply into the world of Machine Learning and explore every facet of it in detail, commencing in week 2.
+
+
+
 <p align="center">Created by <a href="https://gdsc-bitshyd.vercel.app/">GDSC</a> :ocean: </p>
