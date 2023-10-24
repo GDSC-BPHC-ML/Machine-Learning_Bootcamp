@@ -57,7 +57,6 @@ Weightage:
 
 ***We have made these assignments for you to have a better learning experience, if you get stuck discuss to a moderator about it and refrain from plagiarism. All the best, it's time to get started.***
 
-### Last Date of Submission: July 19, Sunday
 
 
 
